@@ -1,7 +1,5 @@
 	MUSIC
-• Forest Background
 • Tree Background?
-• Boss
 • Item Collect Jingle
 • Game Over
 • Rest Area?
@@ -11,16 +9,9 @@
 
 	SOUNDS
 • Walking
-  • Grass
-  • Wood/Branch
   • Stone
-• Text
 • Option Feedback
-• Sword Swipe
-• Sword Hit
-• Sword Dink
 • Potion Use/Throw
-• Jump
 • Wall Jump
 • Enemy Hit
 • Enemy Dead
@@ -30,10 +21,8 @@
 • Boss Attack
 • Player Hit
 • Player Dead
-• Water Splash
 • Swimming
 • Water Ambient
 • Waterfall?
-• Dash
 • Jump off wall?
 • Door Open?
